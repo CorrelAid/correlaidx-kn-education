@@ -109,7 +109,7 @@ function get_html_for_ws(ws) {
 					</div>
 
 					<div class="row">
-						<h2>Vorraussetzungen</h2>
+						<h2>Voraussetzungen</h2>
 						<div>${ws.requirements}</div>
 					</div>
 
