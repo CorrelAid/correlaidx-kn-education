@@ -56,7 +56,7 @@ function get_dict_html(dt) {
 
 function get_html_for_ws(ws) {
 	let ws_id = `ws_${ws.name.hashCode()}`;
-	let ws_html = `<div class="col">
+	let ws_html = `<div class="col-md-6 col-sm-12 col-lg-4">
 		<div class="card shadow-sm">
 			<a data-bs-toggle="modal" data-bs-target="#${ws_id}" href="#">
 				<img width="100%" height="225" src="static/img/${ws.images.thumbnail}" alt="Thumbnail image ${ws.name}">
