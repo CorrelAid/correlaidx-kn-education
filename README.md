@@ -9,10 +9,10 @@ Material für die Workshops von CorrelAidX Konstanz
 3. Passe die Datei ensprechend an, siehe [Konfiguration Workshop JSON](#Konfiguration-Workshop-JSON)
 4. Füge Bilder (Thumbnail und Hero) dem `static/img/` Ordner hinzu
 5. Füge den Dateinamen aus 2. (*intro_to_py.json*) zu *settings.json* unter `active` hinzu:
-```json=
+```json
 {
 	"active": [
-		...,
+		"...",
 		"intro_to_py.json"
 	],
 	"inactive": [
@@ -28,7 +28,7 @@ Material für die Workshops von CorrelAidX Konstanz
 ## Konfiguration Workshop JSON
 Es ist immer möglich HTML-tags zu benutzen, **hier nur auf quotes (zur not escapen) achten.**
 
-```json=
+```json
 {
 	"name": "Name des Workshops",
 	"sub": "Lead-Text für die Detail-Seite",
@@ -37,7 +37,7 @@ Es ist immer möglich HTML-tags zu benutzen, **hier nur auf quotes (zur not esca
 	"venue": "Ort des Workshops",
 ```
 `previous` wird aktuell noch nicht benutzt; Daten in chronologischer Reihenfolge
-```json=
+```json
 	"dates": {
 		"previous": ["24.12.0"],
 		"next": ["15.4.2022", "16.04.2022"]
@@ -53,7 +53,7 @@ Es ist immer möglich HTML-tags zu benutzen, **hier nur auf quotes (zur not esca
 Bei Details, können wie bei `schedule` beliebige Keys verwendet werden.
 Gedacht für Infos wie Sprache, o.Ä.
 
-```json=
+```json
 	"details": {
 		"Packages": "...",
 		"Sprache": "Deutsch"		
@@ -62,7 +62,7 @@ Gedacht für Infos wie Sprache, o.Ä.
 ```
 `authors` sind die Ersteller und Durchführer des Kurses
 
-```json=
+```json
 	"authors": [
 		"Jon Doe", "Max Müller"
 	],
@@ -73,7 +73,7 @@ Gedacht für Infos wie Sprache, o.Ä.
 ```
 Wird auf der Overview-Seite angezeigt
 
-```json=
+```json
 	"tags": [
 		"template", "json", "pyhton"
 	]
