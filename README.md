@@ -8,7 +8,7 @@ Material für die Workshops von CorrelAidX Konstanz
 2. Dupliziere template.json im *workshops* Ordner und benenne die Datei z.B. *intro_to_py.json*
 3. Passe die Datei ensprechend an, siehe [Konfiguration Workshop JSON](#Konfiguration-Workshop-JSON)
 4. Füge Bilder (Thumbnail und Hero) dem `static/img/` Ordner hinzu
-5. Füge den Dateinamen aus 1. (*intro_to_py.json*) zu *settings.json* unter `active` hinzu:
+5. Füge den Dateinamen aus 2. (*intro_to_py.json*) zu *settings.json* unter `active` hinzu:
 ```json=
 {
 	"active": [
