@@ -1,5 +1,5 @@
 /***************************************
- * CUSTOM CSS
+ * CUSTOM JS
  * Tilman Kerl
  * CorrelAid x Konstanz - Education
  ****************************************/

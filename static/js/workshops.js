@@ -1,5 +1,5 @@
 /***************************************
- * CUSTOM CSS
+ * WORKSHOP LOADER JS
  * Tilman Kerl
  * CorrelAid x Konstanz - Education
  ****************************************/
@@ -123,7 +123,7 @@ function get_html_for_ws(ws) {
 						<div>${get_dict_html(ws.schedule)}</div>
 					</div>
 				</div>
-				<div class="modal-footer">
+				<div class="modal-footer">          
 					<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Schließen</button>
 				</div>
 			</div>
