@@ -123,7 +123,11 @@ function get_html_for_ws(ws) {
 						<div>${get_dict_html(ws.schedule)}</div>
 					</div>
 				</div>
-				<div class="modal-footer">          
+				<div class="modal-footer">
+          <a class="btn btn-success" href="${ws.register_link}" title="Opens a new window" target="blank">
+            <i class="bi bi-box-arrow-in-up-right"></i>
+            Anmelden
+          </a>
 					<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Schließen</button>
 				</div>
 			</div>
