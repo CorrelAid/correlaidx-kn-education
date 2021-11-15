@@ -16,7 +16,7 @@
 	"structure": "Hier eine tolle struktur",
 	"details": {
 		"custom key 1": "detail 1",
-		"Sprache": "Deutsch",
+		"Sprache": "Deutsch"
 	},
 	"requirements": "Grundlegene Kentnisse von R",
 	"authors": [
