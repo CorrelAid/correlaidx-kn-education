@@ -1,5 +1,5 @@
 # correlaidx-kn-education
-Material für die Workshops von CorrelAidX Konstanz
+Material für die [Workshops von CorrelAidX Konstanz](https://correlaid.github.io/correlaidx-kn-education/)
 
 
 ## How-to: Neuen Workshop erstellen
