@@ -104,16 +104,6 @@ function get_html_for_ws(ws) {
 					</div>
 
 					<div class="row">
-						<h2>Struktur</h2>
-						<div>${ws.structure}</div>
-					</div>
-
-					<div class="row">
-						<h2>Voraussetzungen</h2>
-						<div>${ws.requirements}</div>
-					</div>
-
-					<div class="row">
 						<h2>Details</h2>
 						<div>${get_dict_html(ws.details)}</div>
 					</div>
