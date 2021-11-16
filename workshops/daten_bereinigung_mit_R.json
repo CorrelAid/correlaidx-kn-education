@@ -1,7 +1,7 @@
 {
 	"name": "Datenbereinigung mit R",
-	"sub": "* Eine Einführung in die Welt des Tidyverse *",
-	"description": "Im Kurs schauen wir uns das Tidyverse an, den Umgang mit NA’s und das Zusammenfügen von Datensätzen. Dabei habt Ihr immer wieder die Gelegenheit, Euch in kurzen Hands-On Sessions selbst am Coden zu probieren!",
+	"sub": "Eine Einführung in die Welt des Tidyverse",
+	"description": "Im Kurs schauen wir uns das Tidyverse, den Umgang mit NA’s und das Zusammenfügen von Datensätzenm an. Dabei habt Ihr immer wieder die Gelegenheit, euch in kurzen Hands-On Sessions selbst am Coden zu probieren!",
 	"teaser": "Anhand spannender Datensätze lernt Ihr nicht nur die verschiedenen Packages des Tidyverse kennen, sondern auch noch viele weitere Tools, um Eure Daten bestmöglich für eine Analyse vorzubereiten.",
 	"venue": "Zoom",
 	"dates": {
@@ -10,11 +10,10 @@
 	},
 	"schedule": {
 		"Dienstag, 23.11.2021": "<ul><li>Block 1 - Getting started</li><li>Block 2 - Datentypen & Outlier</li><li>Block 3 - Manipulation 1</li></ul>",
-		"Donnerstag, 25.11.2021": "<ul><li>Block 4 - Organising Data</li><li>Block 5 - Data Manipulation 2</li><li>Block 6 - Applied</li></ul>",
-		"12:00-13:00": "point of order 3"
+		"Donnerstag, 25.11.2021": "<ul><li>Block 4 - Organising Data</li><li>Block 5 - Data Manipulation 2</li><li>Block 6 - Applied</li></ul>"
 	},
 	"details": {
-		"Vorraussetzungen": "Grundlegene Kentnisse von R. R und RStudio sollten vor Beginn des Workshops auf eurer lokalen Maschine installiert und ohne Probleme startklar sein",
+		"Vorraussetzungen": "Ihr solltet über grundlegene Kentnisse von R verfügen. Außerdem sollten R und RStudio sollten vor Beginn des Workshops auf eurer lokalen Maschine installiert und ohne Probleme startklar sein",
 		"Sprache": "Deutsch"
 	},
 	"authors": [
