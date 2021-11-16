@@ -21,8 +21,8 @@
 		"Zoe Wolter", "Jens Wiederspohn", "Liane Strauch"
 	],
 	"images": {
-		"thumbnail": "filename of image in static/img/ folder",
-		"hero": "sea.jpg"
+		"thumbnail": "data_cleaning_thumb.jpg",
+		"hero": "data_cleaning_hero.jpg"
 	},
 	"tags": [
 		"R", "data-manipulation", "tidyverse"
