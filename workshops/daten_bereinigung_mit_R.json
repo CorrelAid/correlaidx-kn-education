@@ -1,6 +1,6 @@
 {
 	"name": "Datenbereinigung mit R",
-	"sub": "*Eine Einführung in die Welt des Tidyverse*",
+	"sub": "* Eine Einführung in die Welt des Tidyverse *",
 	"description": "Im Kurs schauen wir uns das Tidyverse an, den Umgang mit NA’s und das Zusammenfügen von Datensätzen. Dabei habt Ihr immer wieder die Gelegenheit, Euch in kurzen Hands-On Sessions selbst am Coden zu probieren!",
 	"teaser": "Anhand spannender Datensätze lernt Ihr nicht nur die verschiedenen Packages des Tidyverse kennen, sondern auch noch viele weitere Tools, um Eure Daten bestmöglich für eine Analyse vorzubereiten.",
 	"venue": "Zoom",
@@ -9,16 +9,14 @@
 		"next": ["23.11.2021", "25.11.2021"]
 	},
 	"schedule": {
-		"custom key 1": "point of order 1",
-		"custom key 2": "point of order 2",
+		"Dienstag, 23.11.2021": "<ul><li>Block 1 - Getting started</li><li>Block 2 - Datentypen & Outlier</li><li>Block 3 - Manipulation 1</li></ul>",
+		"Donnerstag, 25.11.2021": "<ul><li>Block 4 - Organising Data</li><li>Block 5 - Data Manipulation 2</li><li>Block 6 - Applied</li></ul>",
 		"12:00-13:00": "point of order 3"
 	},
-	"structure": "Hier eine tolle struktur",
 	"details": {
-		"custom key 1": "R und RStudio sollten vor Beginn des Workshops auf eurer lokalen Maschine installiert und ohne Probleme startklar sein.",
+		"Vorraussetzungen": "Grundlegene Kentnisse von R. R und RStudio sollten vor Beginn des Workshops auf eurer lokalen Maschine installiert und ohne Probleme startklar sein",
 		"Sprache": "Deutsch"
 	},
-	"requirements": "Grundlegene Kentnisse von R",
 	"authors": [
 		"Zoe Wolter", "Jens Wiederspohn", "Liane Strauch"
 	],
@@ -29,5 +27,5 @@
 	"tags": [
 		"R", "data-manipulation", "tidyverse"
 	],
-	"register_link": "https://www.google.de/?hl=de"
+	"register_link": "https://forms.gle/Lj51yAqDQHQ9b55Q9"
 }
