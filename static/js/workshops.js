@@ -72,7 +72,7 @@ function get_html_for_ws(ws) {
 					<div class="align-items-center">
 						${ws.tags.map(el => '<span class="badge bg-secondary">'+el+'</span>').join(" ")}
 					</div>
-					<div class="align-item-right"><i class="bi bi-geo-alt-fill"></i> ${ws.venue}</div>
+					<div class="align-item-right"><i class="bi bi-geo-alt-fill"></i> ${ws.dates.next[0]}</div>
 				</div>
 			</div>
 		</div>
@@ -96,7 +96,7 @@ function get_html_for_ws(ws) {
 						</p>
 						<!-- text-muted -->
 						<p class=""><i class="bi bi-people-fill"> </i> ${ws.authors.join(", ")}</p>
-						<div class="align-item-center"><i class="bi bi-calendar"></i> ${ws.dates.next[0]}</div>
+						<div class="align-item-center"><i class="bi bi-geo-alt-fill"></i> ${ws.venue}</div>
 					</div>
 					<div class="row">
 						<h2>Beschreibung</h2>
