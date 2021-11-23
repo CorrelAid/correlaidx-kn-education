@@ -6,7 +6,7 @@
 	"venue": "Zoom",
 	"dates": {
 		"previous": [""],
-		"next": ["23.11.2021", "25.11.2021"]
+		"next": ["23. & 25.11.2021, 19 Uhr"]
 	},
 	"schedule": {
 		"Dienstag, 23.11.2021": "<ul><li>Block 1 - Getting started</li><li>Block 2 - Datentypen & Outlier</li><li>Block 3 - Manipulation 1</li></ul>",
@@ -14,7 +14,8 @@
 	},
 	"details": {
 		"Vorraussetzungen": "Ihr solltet über grundlegene Kentnisse von R verfügen. Außerdem sollten R und RStudio vor Beginn des Workshops auf eurer lokalen Maschine installiert und ohne Probleme startklar sein",
-		"Sprache": "Deutsch"
+		"Sprache": "Deutsch",
+		"Workshop-Material": "<a href="https://github.com/ZoeWolter/CorrelAidXKonstanz-DataManipulation">Github</a>"
 	},
 	"authors": [
 		"Zoe Wolter", "Jens Wiederspohn", "Liane Strauch"
