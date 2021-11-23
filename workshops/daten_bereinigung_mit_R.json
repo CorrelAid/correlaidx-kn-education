@@ -15,7 +15,7 @@
 	"details": {
 		"Vorraussetzungen": "Ihr solltet über grundlegene Kentnisse von R verfügen. Außerdem sollten R und RStudio vor Beginn des Workshops auf eurer lokalen Maschine installiert und ohne Probleme startklar sein",
 		"Sprache": "Deutsch",
-		"Workshop-Material": '<a href="https://github.com/ZoeWolter/CorrelAidXKonstanz-DataManipulation">Github</a>'
+		"Workshop-Material": "<a href='https://github.com/ZoeWolter/CorrelAidXKonstanz-DataManipulation'>Github</a>"
     },
 	"authors": [
 		"Zoe Wolter", "Jens Wiederspohn", "Liane Strauch"
