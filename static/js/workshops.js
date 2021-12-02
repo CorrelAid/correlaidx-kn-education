@@ -72,7 +72,7 @@ function get_html_for_ws(ws) {
 					<div class="align-items-center">
 						${ws.tags.map(el => '<span class="badge bg-secondary">'+el+'</span>').join(" ")}
 					</div>
-					<div><i class="bi bi-calendar"></i> ${ws.dates.next[0]}</div>
+					<div class="align-items-center"><i class="bi bi-calendar"></i> ${ws.dates.next[0]}</div>
 				</div>
 			</div>
 		</div>
