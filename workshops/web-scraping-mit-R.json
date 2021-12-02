@@ -1,0 +1,31 @@
+{
+	"name": "Web Scraping mit R",
+	"sub": "Web Scraping & APIs",
+	"description": "Im Kurs scrapen wir zusammen eine Wikipedia-Seite über Wahlergebnisse in den USA und nutzen die Daten um weitere Informationen über die zur Wahl stehenden Politiker:innen über eine API (Programmierschnittstelle) abzurufen. Soviel sei verraten, wir begeben uns in die Abgründe der US-Parteienfinanzierung… ;) Dabei hast Du immer wieder die Gelegenheit, Dich in kurzen Hands-On Sessions selbst am Coden zu probieren!",
+	"teaser": "Anhand spannender Daten von Wikipedia und der FEC API lernt Ihr nicht nur verschiedenen Funktionen und Packages kennen, sondern auch noch vieles Weitere zum Thema Web Data Collection.",
+	"venue": "Universität Konstanz",
+	"dates": {
+		"previous": [""],
+		"next": ["07.12.2021"]
+	},
+	"schedule": {
+		"Dienstag, 7.12.2021": "<ul><li>Block 1 - Was ist Web Scraping?</li><li>Block 2 - Scraping Wikipedia</li></ul>",
+		"Donnerstag, 09.12.2021": "<ul><li>Block 3 - Was sind APIs?</li><li>Block 4 - FEC API</li></ul>"
+	},
+	"details": {
+		"Vorraussetzungen": "Ihr solltet bereits mit R und RStudio gearbeitet haben und grundlegende Kenntnisse der R-Funktionen und auch dem Tidyverse haben",
+		"Sprache": "Deutsch",
+		"Workshop-Material": "<a target='blank' href='https://github.com/ZoeWolter/CorrelAidXKonstanz-WebScraping'>Github</a>"
+    },
+	"authors": [
+		"Philipp Bosch", "Jens Wiederspohn", "Zoé Wolter"
+	],
+	"images": {
+		"thumbnail": "data_cleaning_thumb.jpg",
+		"hero": "data_cleaning_hero.jpg"
+	},
+	"tags": [
+		"R", "web-scraping", "tidyverse"
+	],
+	"register_link": "https://forms.gle/7DGNSVmFEbnpcr317"
+}
