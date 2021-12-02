@@ -21,8 +21,8 @@
 		"Philipp Bosch", "Jens Wiederspohn", "Zoé Wolter"
 	],
 	"images": {
-		"thumbnail": "data_cleaning_thumb.jpg",
-		"hero": "data_cleaning_hero.jpg"
+		"thumbnail": "scraping_thumb.jpg",
+		"hero": "scraping_hero.jpg"
 	},
 	"tags": [
 		"R", "web-scraping", "tidyverse"
