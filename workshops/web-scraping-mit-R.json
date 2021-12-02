@@ -25,7 +25,7 @@
 		"hero": "scraping_hero.jpg"
 	},
 	"tags": [
-		"R", "web-scraping", "tidyverse"
+		"R", "web-scraping"
 	],
 	"register_link": "https://forms.gle/7DGNSVmFEbnpcr317"
 }
