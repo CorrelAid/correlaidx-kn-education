@@ -6,10 +6,10 @@
   "venue": "University of Konstanz",
   "dates": {
     "previous": [""],
-    "next": ["25.01.2022, 6-8pm"]
+    "next": ["25.01.2022"]
   },
   "schedule": {
-    "Tuesday, 25.01.2022": "<ul><li>Part 1 - Data Exploration & Data Cleaning</li><li>Part 2 - Basic Plots with ggplot2</li><li>Part 3 - Adding information & Customization</li><li>Part 4 - Scales</li><li>Part 5 - Hands-on</li></ul>"
+    "Tuesday, 25.01.2022, 6-8 pm": "<ul><li>Part 1 - Data Exploration & Data Cleaning</li><li>Part 2 - Basic Plots with ggplot2</li><li>Part 3 - Adding information & Customization</li><li>Part 4 - Scales</li><li>Part 5 - Hands-on</li></ul>"
   },
   "details": {
     "Prerequisites": "You should have already worked with R and RStudio and have basic knowledge of the tidyverse",
@@ -24,7 +24,7 @@
     "hero": "data_vis_hero.jpg"
   },
   "tags": [
-    "R", "data-viz"
+    "R", "data-viz", "tidyverse"
   ],
   "register_link": "https://forms.gle/8y369MmTHbNheYNR8"
 }
