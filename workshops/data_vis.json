@@ -6,7 +6,7 @@
   "venue": "University of Konstanz",
   "dates": {
     "previous": [""],
-    "next": ["25.01.2022"]
+    "next": ["25.01.2022, 6-8pm"]
   },
   "schedule": {
     "Tuesday, 25.01.2022, 6-8 pm": "<ul><li>Part 1 - Data Exploration & Data Cleaning</li><li>Part 2 - Basic Plots with ggplot2</li><li>Part 3 - Adding information & Customization</li><li>Part 4 - Scales</li><li>Part 5 - Hands-on</li></ul>"
