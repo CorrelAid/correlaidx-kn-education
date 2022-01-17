@@ -1,10 +1,11 @@
 {
 	"active": [
-         "data_vis.json"
-	],
+      "...",
+      "data_vis.json",
+      "daten_bereinigung_mit_R.json",
+      "web-scraping-mit-R.json"
+    ],
 	"inactive": [
-        "daten_bereinigung_mit_R.json",
-        "web-scraping-mit-R.json",
 		"template.json",
 		"intro_to_r.json"
 	]
