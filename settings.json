@@ -1,7 +1,7 @@
 {
 	"active": [
       "...",
-			"python_workshop.json"
+			"python_workshop.json",
       "data_vis.json",
       "daten_bereinigung_mit_R.json",
       "web-scraping-mit-R.json"
