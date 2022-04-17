@@ -23,7 +23,7 @@ Möglichkeit geben, das Gelernte auch anzuwenden.",
 		"next": ["10.05.2022, 17:30 – 19:30 Uhr"]
 	},
 	"schedule": {
-		"Ablauf": "<ul><li>Intro</li><li>Absolute Basics</li><li>Datentypen</li><li>Datencontainer</li><li>Loops und Conditional Statements</li><li>Funktionen</li></ul>"
+		"Dienstag, 10.05.2022": "<ul><li>Intro</li><li>Absolute Basics</li><li>Datentypen</li><li>Datencontainer</li><li>Loops und Conditional Statements</li><li>Funktionen</li></ul>"
 	"details": {
 		"Vorraussetzungen": "Keine",
 		"Sprache": "Deutsch",
