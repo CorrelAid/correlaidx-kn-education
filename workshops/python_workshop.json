@@ -2,7 +2,7 @@
 	"name": "Python Workshop",
 	"sub": "Python Workshop Termin 1 – Python Basics",
 	"description": "In diesem Kurs werdet ihr die Grundlagen von Python kennenlernen. Dafür wollen wir euch innerhalb von etwa zwei Stunden die Kernelemente dieser Programmiersprache vorstellen, ihren praktischen Nutzen aufzeigen und euch die Möglichkeit geben, das Gelernte auch anzuwenden. Da wir wirklich ganz von vorne anfangen, sind keine Vorkenntnisse nötig – ihr solltet lediglich Interesse und Motivation mitbringen, etwas Neues zu lernen. Wir werden uns in diesem Kurs nach einer kurzen Einführung mit den Datentypen und Datencontainern in Python befassen sowie grundlegende Strukturelemente wie Loops, Conditional Statements und Funktionen kennenlernen. Der Kurs dient dazu, einen ersten Einblick zu bekommen und erste Dinge zu erlernen, auf denen man dann im Optimalfall selbst aufbauen kann. Im Laufe des Semesters werden wir auch weitere, darauf aufbauende Python Workshops anbieten",
-	"teaser": "In diesem Kurs werdet ihr die Grundlagen von Python kennenlernen. Dafür wollen wir euch innerhalb von etwa zwei Stunden die Kernelemente dieser Programmiersprache vorstellen, ihren praktischen Nutzen aufzeigen und euch die Möglichkeit geben, das Gelernte auch anzuwenden.",
+	"teaser": "In diesem Kurs werdet ihr die Grundlagen von Python kennenlernen.",
 	"venue": "Universität Konstanz, Raum [tba]",
 	"dates": {
 		"previous": [""],
@@ -23,7 +23,7 @@
 		"hero": "python_hero.jpg"
 	},
 	"tags": [
-		"Python", "Basics", "Introduction"
+		"Python", "Introduction"
 	],
 	"register_link": "https://ee.correlaid.org/x/T3Thh0u8"
 }
