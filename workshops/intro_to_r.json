@@ -1,33 +1,30 @@
 {
 	"name": "Intro to R",
 	"sub": "Eine Einführung die wirklich bei Null beginnt",
-	"description": "Was wird gemacht? Was ist geplant, hier kannst du auch <strong>html</strong> tags benutzen. Achte nur auf double quotes.",
-	"teaser": "Ein wirklich klasse workshop! kann ich nur empfehlen du lernst viel!",
-	"venue": "Online",
+	"description": "In diesem Kurs werdet ihr die Grundlagen von R kennenlernen. Dafür wollen wir euch innerhalb der zwei Workshoptage die Kernelemente dieser Programmiersprache vorstellen, ihren praktischen Nutzen aufzeigen und euch die Möglichkeit geben, das Gelernte auch anzuwenden. Da wir wirklich ganz von vorne anfangen, sind keine Vorkenntnisse nötig – ihr solltet lediglich Interesse und Motivation mitbringen, etwas Neues zu lernen. Wir werden uns in diesem Kurs nach einer kurzen Einführung zu R und R Studio mit den verschiedenen Datenformaten, Funktionen und am Ende sogar mit einfachen linearen Regressionen befassen. Der Kurs dient dazu, einen ersten Einblick zu bekommen und erste Dinge zu erlernen, auf denen man dann im Optimalfall selbst aufbauen kann. Im Laufe des Semesters werden wir auch weitere, darauf aufbauende R Workshops anbieten.",
+	"venue": "Universität Konstanz, G227",
 	"dates": {
-		"previous": ["24.12.0"],
-		"next": ["15.4.2022", "16.04.2022"]
-	},
-	"schedule": {
-		"custom key 1": "point of order 1",
-		"custom key 2": "point of order 2",
-		"12:00-13:00": "point of order 3"
-	},
-	"structure": "structure of the workshop, first this then that, once again <ul><li>element 1</li></ul> html works <br> as well!",
-	"details": {
-		"custom key 1": "detail 1",
-		"Sprache": "Deutsch"
-	},
-	"requirements": "Grundlegene Kentnisse von R",
-	"authors": [
-		"Philipp Bosch", "Felix Kube", "Liane Strauch", "Tilman Kerl"
-	],
-	"images": {
-		"thumbnail": "sea.jpg",
-		"hero": "sea.jpg"
-	},
-	"tags": [
-		"intro", "R"
-	],
-	"register_link": "https://forms.gle/BwEYzU4ZSoTpvKFU8"
+		"previous": [""],
+		"next": ["03.05.2022", "05.05.2022"],
+"schedule": {
+	"Dienstag, 03.05.2022, 6-8 pm": "<ul><li>Intro</li><li>Absolute Basics</li><li>Funktionen</li><li>Datenformate</li></ul>",
+	"Donnerstag, 05.05.2022, 6-8 pm": "<ul><li>Packages & R Markdown</li><li>Eigene Funktionen schreiben</li><li>Lineare Regression</li></ul>"
+},
+},
+"details": {
+	"Vorrraussetzungen": "Keine",
+	"Language": "Deutsch",
+	"Workshop-Material": "Wird per E-Mail versendet"
+},
+"authors": [
+	"Philipp Bosch", "Jens Wiederspohn", "Niklas Bacher", "Jonas Schrade"
+],
+"images": {
+	"thumbnail": "intro_r_thumb.jpg",
+	"hero": "intro_r_hero.jpg"
+},
+"tags": [
+	"R", "Intro"
+],
+"register_link": "https://ee.correlaid.org/x/OcSi8hMb"
 }
