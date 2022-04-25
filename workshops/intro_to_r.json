@@ -6,13 +6,14 @@
 	"dates": {
 		"previous": [""],
 		"next": ["03.05.2022", "05.05.2022"],
+
+	},
 "schedule": {
 	"Dienstag, 03.05.2022, 6-8 pm": "<ul><li>Intro</li><li>Absolute Basics</li><li>Funktionen</li><li>Datenformate</li></ul>",
 	"Donnerstag, 05.05.2022, 6-8 pm": "<ul><li>Packages & R Markdown</li><li>Eigene Funktionen schreiben</li><li>Lineare Regression</li></ul>"
 },
-},
 "details": {
-	"Vorrraussetzungen": "Keine",
+	"Vorraussetzungen": "Keine",
 	"Language": "Deutsch",
 	"Workshop-Material": "Wird per E-Mail versendet"
 },
