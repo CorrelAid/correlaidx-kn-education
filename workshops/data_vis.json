@@ -2,7 +2,7 @@
   "name": "Data Visualization with R",
   "sub": "Plots with ggplot2",
   "description": "Interesting data, but no idea how to present it? Then let’s use ggplot2 to visualize the data with the help of R! In this workshop you’ll learn how to create different types of plots and how to customize them. You’ll also have the chance to practice in many hands-on parts!",
-  "teaser": "Using data on the Chinese government's global development finance activities, you'll learn about different types of plots and customizations, so you're fully equipped to design some fancy plots of your own!",
+  "teaser": "Learn how to design fancy plots!",
   "venue": "University of Konstanz",
   "dates": {
     "previous": [""],

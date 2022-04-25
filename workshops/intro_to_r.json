@@ -2,7 +2,7 @@
 	"name": "Intro to R",
 	"sub": "Eine Einführung, die wirklich bei Null beginnt",
 	"description": "In diesem Kurs werdet ihr die Grundlagen von R kennenlernen. Dafür wollen wir euch innerhalb der zwei Workshoptage die Kernelemente dieser Programmiersprache vorstellen, ihren praktischen Nutzen aufzeigen und euch die Möglichkeit geben, das Gelernte auch anzuwenden. Da wir wirklich ganz von vorne anfangen, sind keine Vorkenntnisse nötig – ihr solltet lediglich Interesse und Motivation mitbringen, etwas Neues zu lernen. Wir werden uns in diesem Kurs nach einer kurzen Einführung zu R und R Studio mit den verschiedenen Datenformaten, Funktionen und am Ende sogar mit einfachen linearen Regressionen befassen. Der Kurs dient dazu, einen ersten Einblick zu bekommen und erste Dinge zu erlernen, auf denen man dann im Optimalfall selbst aufbauen kann. Im Laufe des Semesters werden wir auch weitere, darauf aufbauende R Workshops anbieten.",
-  "teaser":"In diesem Kurs werdet ihr die Grundlagen von R kennenlernen.",
+  "teaser": "In diesem Kurs werdet ihr die Grundlagen von R kennenlernen.",
 	"venue": "Universität Konstanz, G227",
 	"dates": {
 		"previous": [""],
