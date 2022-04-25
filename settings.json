@@ -2,11 +2,11 @@
 	"active": [
       "...",
 			"python_workshop.json",
-      "intro_to_r.json",
-      "web-scraping-mit-R.json"
+      "intro_to_r.json"
     ],
 	"inactive": [
 		"template.json",
+		"web-scraping-mit-R.json",
 		"daten_bereinigung_mit_R.json",
 		"data_vis.json"
 	]
