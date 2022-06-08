@@ -13,12 +13,12 @@
 		]
 	},
 	"schedule": {
-		"Dienstag, 10.05.2022, 17:30 – 19:30 Uhr": "<ul><li>Intro</li><li>Absolute Basics</li><li>Datentypen</li><li>Datencontainer</li><li>Loops und Conditional Statements</li><li>Funktionen</li></ul>"
+		"Dienstag, 10.05.2022, 17:30 – 19:30 Uhr": "<ul><li>Intro</li><li>Numpy</li><li>Pandas</li><li>Numpy & Pandas zusammen nutzen</li></ul>"
 	},
 	"details": {
 		"Vorraussetzungen": "Grundlagen von Python",
 		"Sprache": "Deutsch",
-		"Workshop-Material": "<a target='blank' href='https://github.com/CorrelAid/Python-Course'>Github</a>"
+		"Workshop-Material": "<a target='blank' href='https://github.com/CorrelAid/Python-Course/tree/main/Numpy%20%26%20Pandas'>Github</a>"
 	},
 	"authors": [
 		"Jonas Hummel",
@@ -32,5 +32,5 @@
 		"Python",
 		"Introduction"
 	],
-	"register_link": "TBA"
+	"register_link": "https://ee.correlaid.org/x/qWaMsDL6"
 }
