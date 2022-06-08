@@ -1,29 +1,36 @@
 {
-	"name": "Python Workshop",
-	"sub": "Python Workshop Termin 1 – Python Basics",
-	"description": "In diesem Kurs werdet ihr die Grundlagen von Python kennenlernen. Dafür wollen wir euch innerhalb von etwa zwei Stunden die Kernelemente dieser Programmiersprache vorstellen, ihren praktischen Nutzen aufzeigen und euch die Möglichkeit geben, das Gelernte auch anzuwenden. Da wir wirklich ganz von vorne anfangen, sind keine Vorkenntnisse nötig – ihr solltet lediglich Interesse und Motivation mitbringen, etwas Neues zu lernen. Wir werden uns in diesem Kurs nach einer kurzen Einführung mit den Datentypen und Datencontainern in Python befassen sowie grundlegende Strukturelemente wie Loops, Conditional Statements und Funktionen kennenlernen. Der Kurs dient dazu, einen ersten Einblick zu bekommen und erste Dinge zu erlernen, auf denen man dann im Optimalfall selbst aufbauen kann. Im Laufe des Semesters werden wir auch weitere, darauf aufbauende Python Workshops anbieten",
-	"teaser": "In diesem Kurs werdet ihr die Grundlagen von Python kennenlernen.",
+	"name": "Datenanalyse mit Python",
+	"sub": "Python Workshop 2 – Numpy & Pandas",
+	"description": "Habt ihr euch schon immer mal gefragt, wie ihr mit Python eure Daten analysieren könntet? Dann seid ihr bei unserem Workshop „Datenanalyse mit Python – Numpy & Pandas“, dem zweiten CorrelAid-Workshop aus unserer Python-Reihe, genau richtig! Während Numpy ein Importmodul für wissenschaftliches Rechnen ist, kann man mit Pandas Tabellen erstellen und verändern. Zusammen bieten diese beiden Module allerhand Möglichkeiten, Daten zu generieren, zu verändern und auf deren Grundlage Berechnungen durchzuführen. Wir wollen euch in unserem Kurs zeigen, wie ihr diese Funktionen für euch nutzen könnt. Wir werden in unserem Kurs Schritt für Schritt vorgehen und euch mit Hilfe von Übungen einen möglichst praxisnahen Einblick verschaffen.",
+	"teaser": "Habt ihr euch schon immer mal gefragt, wie ihr mit Python eure Daten analysieren könntet? Dann seid ihr bei unserem Workshop „Datenanalyse mit Python – Numpy & Pandas“, dem zweiten CorrelAid-Workshop aus unserer Python-Reihe, genau richtig!",
 	"venue": "Universität Konstanz, Raum [tba]",
 	"dates": {
-		"previous": [""],
-		"next": ["10.05.2022"]
+		"previous": [
+			""
+		],
+		"next": [
+			"21.06.2022"
+		]
 	},
 	"schedule": {
-		"Dienstag, 10.05.2022, 17:30 – 19:30 Uhr": "<ul><li>Intro</li><li>Absolute Basics</li><li>Datentypen</li><li>Datencontainer</li><li>Loops und Conditional Statements</li><li>Funktionen</li></ul>"},
+		"Dienstag, 10.05.2022, 17:30 – 19:30 Uhr": "<ul><li>Intro</li><li>Absolute Basics</li><li>Datentypen</li><li>Datencontainer</li><li>Loops und Conditional Statements</li><li>Funktionen</li></ul>"
+	},
 	"details": {
-		"Vorraussetzungen": "Keine",
+		"Vorraussetzungen": "Grundlagen von Python",
 		"Sprache": "Deutsch",
 		"Workshop-Material": "<a target='blank' href='https://github.com/CorrelAid/Python-Course'>Github</a>"
-    },
+	},
 	"authors": [
-		"Jonas Hummel", "Torben Abts"
+		"Jonas Hummel",
+		"Torben Abts"
 	],
 	"images": {
 		"thumbnail": "python_thumb.jpg",
 		"hero": "python_hero.jpg"
 	},
 	"tags": [
-		"Python", "Introduction"
+		"Python",
+		"Introduction"
 	],
-	"register_link": "https://ee.correlaid.org/x/T3Thh0u8"
+	"register_link": "TBA"
 }
