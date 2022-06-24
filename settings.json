@@ -1,13 +1,13 @@
 {
 	"active": [
       "...",
-			"python_workshop.json"
+		"data_vis.json"
     ],
 	"inactive": [
 		"template.json",
 		"web-scraping-mit-R.json",
 		"daten_bereinigung_mit_R.json",
-		"data_vis.json",
+		"python_workshop.json",
 		"intro_to_r.json"
 	]
 }
